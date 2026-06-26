@@ -1,10 +1,9 @@
 # Desafio DIO - Engenharia de Prompts (Análise de Feedback)
 
-Este repositório contém o prompt final estruturado para o desafio de extração de insights de clientes bancários.
-
+Este repositório contém a entrega do Desafio Criativo de Engenharia de Prompts. Abaixo está o comando consolidado e refinado para análise automatizada de feedbacks de Clientes Bancários.
 ---
 
-### 🚀 Prompt Final Estruturado (Passo 3)
+### 🚀 Prompt Final Estruturado
 
 ```text
 Atue como analista de atendimento e qualidade.
